@@ -1,0 +1,1185 @@
+# RAPIDBRAINS — GLOBAL TALENT PLATFORM
+## Complete Website Strategy, Research, UI/UX Redesign & Development Brief
+
+### ROLE
+
+Act as a world-class digital agency combining the expertise of:
+
+- Global Talent Platform Strategists
+- Enterprise SaaS Product Architects
+- Senior UI/UX Designers
+- Creative Directors
+- AI Product Designers
+- SEO & AEO Specialists
+- Conversion Rate Optimisation Experts
+- Full-Stack Developers
+- Motion Graphics & Interactive Experience Designers
+
+Your assignment is to transform **RapidBrains (https://www.rapidbrains.com/)** into a premium, modern, interactive, AI-powered global talent platform.
+
+This is not a conventional IT recruitment website redesign.
+
+RapidBrains must be positioned as a comprehensive technology talent ecosystem that enables businesses to discover, evaluate, hire, employ, manage and pay global talent through one connected platform.
+
+The website should communicate the sophistication of a global technology company, the usability of a modern talent marketplace and the intelligence of an AI-enabled workforce platform.
+
+---
+
+# 1. UNDERSTAND THE RAPIDBRAINS BUSINESS
+
+Before designing or developing anything, understand the existing business, website, services, products and revenue models.
+
+RapidBrains is a **Global Talent Platform**.
+
+The platform combines:
+
+1. Talent Marketplace
+2. Employer of Record (EOR)
+3. Recruitment Process Outsourcing (RPO)
+4. RapidBrains Lens AI
+5. Rapid Hire Platform
+6. Workforce Management
+7. Global Payroll Services
+8. Skill Assessment
+9. Candidate Screening and Evaluation
+10. Permanent Recruitment
+11. Contract Technology Staffing
+
+### Core business model
+
+The primary revenue-generating service is contract technology staffing.
+
+**A. Contract Developers — Primary Business**
+
+Help companies discover and engage technology professionals on flexible hourly billing arrangements.
+
+- Hourly developer engagement
+- Flexible contract duration
+- Remote technology professionals
+- Short-term and long-term engagements
+- Scalable engineering resources
+- Technology-specific talent sourcing
+
+**B. Employer of Record (EOR)**
+
+Enable companies to employ international talent without establishing their own local legal entity, subject to applicable country regulations.
+
+Commercial model: approximately 15% of the talent's salary per month.
+
+**C. Permanent Recruitment**
+
+Help businesses hire full-time technology professionals and specialist talent.
+
+Commercial model: 8.33% of the candidate's annual salary.
+
+**D. Dedicated Teams**
+
+Help businesses build and scale dedicated engineering teams for ongoing development requirements.
+
+**E. Recruitment Process Outsourcing**
+
+Provide recruitment operations, talent sourcing, screening, assessment and hiring workflow support.
+
+**F. AI-Powered Talent Solutions**
+
+Use RapidBrains Lens AI for intelligent talent discovery, candidate matching, screening and skill assessment.
+
+Important: Verify all current services, commercial terms, geographical capabilities and operational claims against RapidBrains' actual business information. Do not publish commercial percentages as public prices without management approval.
+
+---
+
+# 2. BRAND POSITIONING
+
+### Core positioning
+
+"RapidBrains is a global talent platform that helps businesses discover, hire, employ and manage exceptional technology professionals through intelligent talent solutions."
+
+### Brand promise
+
+**Discover Talent. Hire Smarter. Scale Globally.**
+
+Alternative messaging to explore:
+
+- One Platform. Every Talent Solution.
+- Your Global Talent, Without the Hiring Complexity.
+- Find the Right Talent. Build What's Next.
+- The Smarter Way to Build Global Teams.
+- From Talent Discovery to Global Workforce Management.
+
+The brand should communicate:
+
+- Global talent accessibility
+- Technical expertise
+- Speed and flexibility
+- Quality and trust
+- Intelligent talent matching
+- Transparent hiring processes
+- Workforce scalability
+- Operational simplicity
+- AI-enabled recruitment
+
+Do not position RapidBrains as merely another recruitment agency or freelance marketplace.
+
+---
+
+# 3. COMPETITOR AND DESIGN RESEARCH
+
+Research the following websites before beginning the redesign.
+
+### Primary design reference
+
+https://www.usebraintrust.com/
+
+Study Braintrust's:
+
+- Navigation structure
+- Homepage composition
+- Talent discovery experience
+- Typography
+- Layout hierarchy
+- White-space usage
+- Cards and content sections
+- Interaction patterns
+- CTA positioning
+- Service discovery journeys
+- Responsive behaviour
+
+Braintrust should be the primary reference for the overall website experience.
+
+Do not copy its design. Create a distinct RapidBrains visual identity.
+
+### Additional references
+
+**Docket — https://docket.io/**
+
+Use as inspiration for:
+
+- Generous whitespace
+- Clean content layouts
+- Spacing between sections
+- Editorial-style typography
+- Simple but premium visual hierarchy
+- Well-organised information architecture
+
+**Eightfold AI — https://eightfold.ai/**
+
+Use as inspiration for:
+
+- Intelligent talent visuals
+- Animated visual elements
+- Dynamic illustrations
+- AI-driven workforce experiences
+- Interactive visual storytelling
+- Subtle motion and transitions
+
+**Toptal — https://www.toptal.com/**
+
+Study premium talent positioning, quality assurance and enterprise messaging.
+
+**Turing — https://www.turing.com/**
+
+Study AI-powered hiring, technical screening and talent matching.
+
+**Uplers — https://www.uplers.com/**
+
+Study global hiring solutions and service segmentation.
+
+**Proxify — https://proxify.io/**
+
+Study developer discovery and talent-focused conversion journeys.
+
+**Jobbie — https://jobbie.app/**
+
+Study intelligent talent matching, interactive profiles and personalised discovery.
+
+### Research deliverable
+
+Prepare a competitor benchmarking report covering:
+
+- Brand positioning
+- Navigation
+- Homepage experience
+- Service architecture
+- Talent discovery
+- AI capabilities
+- Interactive elements
+- Visual design
+- Conversion journeys
+- SEO strategy
+- Opportunities for RapidBrains
+
+---
+
+# 4. WEBSITE INFORMATION ARCHITECTURE
+
+IMPORTANT: Build RapidBrains as a genuine multi-page website.
+
+Do not place every service, product, technology and feature on one homepage.
+
+Each primary navigation item must have its own landing page where appropriate, with dedicated subpages for individual services and products.
+
+## PRIMARY NAVIGATION
+
+### 1. DISCOVER
+
+Purpose: Allow businesses to explore technology talent based on their requirements.
+
+Subpages:
+
+- Browse by Talent
+- Browse by Technology
+- Browse by Role
+- Browse by Expertise
+- Browse by Industry
+
+Potential discovery categories:
+
+Technology:
+- Frontend Development
+- Backend Development
+- Full Stack Development
+- Mobile Development
+- Cloud & DevOps
+- Data Engineering
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Cybersecurity
+- QA & Automation
+
+Roles:
+- Software Developers
+- AI Engineers
+- Data Engineers
+- Cloud Architects
+- DevOps Engineers
+- Solution Architects
+- QA Engineers
+- Engineering Managers
+
+Create a visually engaging talent discovery experience.
+
+Visitors should be able to explore talent categories, skills, role types and engagement options.
+
+Do not display fabricated available candidates. Clearly label demonstration profiles as sample profiles unless connected to an approved live talent database.
+
+### 2. SOLUTIONS
+
+Purpose: Explain how RapidBrains helps businesses acquire and manage talent.
+
+Create individual landing pages for:
+
+**Hire on Demand**
+
+Flexible contract developers and technology professionals available through hourly engagement models.
+
+This is the primary commercial offering and should receive the strongest visibility.
+
+**Dedicated Teams**
+
+Build dedicated engineering teams for long-term projects and business expansion.
+
+**Hire Permanently**
+
+Permanent recruitment for technology professionals, specialist positions and leadership roles.
+
+**Employ Globally**
+
+Employer of Record, international employment, global payroll and contractor management.
+
+**Domain Experts for AI**
+
+Access qualified domain specialists, including doctors, lawyers and other subject-matter experts, for:
+
+- Reinforcement Learning from Human Feedback (RLHF)
+- AI model evaluation
+- Red-teaming
+- Expert annotation
+- Domain-specific data evaluation
+
+Ensure these services are presented according to verified delivery capabilities.
+
+### 3. PRODUCTS
+
+Create dedicated product pages.
+
+**Lens AI**
+
+RapidBrains' AI-powered talent intelligence product.
+
+Capabilities:
+
+- Intelligent talent matching
+- Natural-language hiring requirements
+- Candidate screening
+- Skill assessment
+- Role recommendations
+- Candidate evaluation
+- Recruitment intelligence
+
+Make Lens AI a signature product of RapidBrains.
+
+**Rapid Hire**
+
+RapidBrains' recruitment and hiring workflow platform.
+
+Explore capabilities such as:
+
+- Candidate management
+- Recruitment pipeline management
+- Hiring workflows
+- Interview coordination
+- Candidate tracking
+- Recruitment analytics
+- Team collaboration
+
+Only represent features that exist or are approved for the product roadmap. Label future capabilities appropriately.
+
+### 4. PROCESS
+
+Create a dedicated page explaining the complete talent lifecycle.
+
+Subpages:
+
+- Vetting
+- Onboarding
+- Payroll Management
+
+Show how a professional moves from talent discovery through evaluation, engagement, onboarding and ongoing workforce management.
+
+Use an interactive process timeline or workflow diagram.
+
+### 5. BUSINESSES
+
+Create business-specific landing pages.
+
+**By Business Type**
+
+- Startups & Founders
+- Technology Companies
+- Scale-ups
+- Enterprise Organizations
+
+**By Industry**
+
+- Technology & SaaS
+- Healthcare & Life Sciences
+- Biotechnology
+- Automotive
+
+Each page should explain:
+
+- Industry-specific hiring challenges
+- Relevant talent categories
+- Recommended engagement models
+- RapidBrains solutions
+- Relevant case studies
+- Appropriate conversion CTA
+
+### 6. INSIGHTS
+
+Create a dedicated resource centre.
+
+Categories:
+
+- Case Studies
+- Blogs
+- Whitepapers
+- Podcast
+- Video Room
+- Newsletters
+- Guides
+- Knowledge Base
+- Hiring Guides
+- FAQs
+
+Use a clean editorial layout with category filters, featured articles and related content.
+
+---
+
+# 5. HOMEPAGE EXPERIENCE
+
+The homepage should introduce RapidBrains within seconds and guide visitors towards the appropriate talent solution.
+
+It should not attempt to explain every service in detail.
+
+### Section 1 — Hero
+
+Create a visually striking, premium hero section.
+
+Suggested headline:
+
+**"The Global Talent Platform Built for What's Next."**
+
+Supporting message:
+
+"Discover, hire and manage exceptional technology talent from anywhere in the world. From flexible contract developers to global employment and AI-powered talent intelligence, RapidBrains brings every talent solution together."
+
+Primary CTA: **Find Your Talent**
+
+Secondary CTA: **Explore Our Solutions**
+
+Additional CTA: **Talk to Our Team**
+
+Hero visual:
+
+Create a live-feeling animated talent ecosystem inspired by Eightfold AI and Braintrust.
+
+Potential elements:
+
+- Floating technology skill cards
+- Animated talent discovery interface
+- Interactive global talent network
+- Dynamic skill connections
+- Talent profile previews
+- Technology category tags
+- AI matching visualisation
+- Subtle motion and depth
+
+The visuals should look like an actual intelligent talent platform, not generic AI-generated technology artwork.
+
+### Section 2 — Talent Platform Overview
+
+Headline:
+
+**"Everything You Need to Build and Manage Your Workforce."**
+
+Introduce the interconnected ecosystem:
+
+- Discover Talent
+- Hire Talent
+- Employ Globally
+- Manage Workforce
+- Pay Talent
+- Assess Skills
+- Automate Recruitment
+
+Use an interactive visual ecosystem or bento-grid layout.
+
+### Section 3 — Explore Talent
+
+Headline:
+
+**"Find the Expertise Your Business Needs."**
+
+Create interactive categories for:
+
+- Developers
+- AI & Machine Learning
+- Cloud & DevOps
+- Data Engineering
+- Software Architecture
+- Quality Engineering
+
+CTA: **Explore Talent**
+
+### Section 4 — Solutions
+
+Present the main business offerings in spacious, visually differentiated cards.
+
+Prioritise:
+
+1. Hire on Demand
+2. Dedicated Teams
+3. Hire Permanently
+4. Employ Globally
+5. Domain Experts for AI
+
+Each card must link to its dedicated service page.
+
+### Section 5 — RapidBrains Lens AI
+
+Headline:
+
+**"Meet the Intelligence Behind Better Hiring."**
+
+Introduce Lens AI as the signature intelligent talent discovery experience.
+
+Show an interactive demonstration of:
+
+- Natural-language hiring requirements
+- Skill extraction
+- Role recommendations
+- Candidate matching
+- Screening and assessment
+
+CTA: **Explore Lens AI**
+
+### Section 6 — Rapid Hire
+
+Introduce the recruitment management platform.
+
+Show how businesses and recruitment teams can organise candidate pipelines, hiring workflows and recruitment operations.
+
+CTA: **Discover Rapid Hire**
+
+### Section 7 — Why RapidBrains?
+
+Show the platform's key advantages:
+
+- Multiple talent engagement models
+- Global talent access
+- Flexible contract hiring
+- Permanent recruitment
+- AI-powered talent intelligence
+- Screening and assessment
+- Employment and payroll support
+- Workforce management
+
+### Section 8 — How It Works
+
+Create an interactive four-stage journey:
+
+1. Define Your Requirements
+2. Discover the Right Talent
+3. Evaluate and Select
+4. Hire and Manage
+
+Use meaningful animations to connect each stage.
+
+### Section 9 — Industry Solutions
+
+Show the industries served and direct visitors to relevant business pages.
+
+### Section 10 — Trust and Credibility
+
+Use verified company information only.
+
+Potential content:
+
+- Client logos with permission
+- Genuine testimonials
+- Verified company statistics
+- Actual case studies
+- Talent screening methodology
+- Geographic coverage
+- Business experience
+
+Never invent metrics, testimonials or client outcomes.
+
+### Section 11 — Insights
+
+Show featured articles, guides, videos and case studies.
+
+### Section 12 — Final CTA
+
+Headline:
+
+**"Your Next Great Hire Starts Here."**
+
+Supporting message:
+
+"Tell us what your business needs. We'll help you find the right talent solution."
+
+Primary CTA: **Find Your Talent**
+
+Secondary CTA: **Talk to Our Team**
+
+---
+
+# 6. INDIVIDUAL PAGE DESIGN REQUIREMENTS
+
+Every major navigation category must have its own page.
+
+Use reusable design components, but avoid making every page look like an identical template with different headings.
+
+Each page should include:
+
+1. Unique hero section
+2. Clear value proposition
+3. Relevant interactive visuals
+4. Specific services or product capabilities
+5. Business benefits
+6. Relevant use cases
+7. How it works
+8. Genuine trust indicators
+9. FAQs
+10. Relevant internal links
+11. Contextual conversion CTAs
+
+Examples:
+
+**Hire on Demand page**
+
+Focus on hourly contract hiring, developer discovery, flexibility, engagement options and hiring requirements.
+
+Primary CTA: **Find Developers**
+
+**Employ Globally page**
+
+Focus on EOR, international employment, payroll and workforce administration.
+
+Primary CTA: **Explore Global Employment**
+
+**Lens AI page**
+
+Focus on AI-powered talent matching, screening, assessment and intelligent hiring workflows.
+
+Primary CTA: **Experience Lens AI**
+
+**Permanent Hiring page**
+
+Focus on specialist recruitment, screening, permanent placements and the recruitment process.
+
+Primary CTA: **Hire Permanently**
+
+---
+
+# 7. INTERACTIVE AND AI EXPERIENCES
+
+AI should solve actual hiring problems.
+
+Prioritise the following experiences.
+
+### RapidBrains Lens AI — Talent Discovery
+
+Allow visitors to describe their hiring requirements naturally.
+
+Example:
+
+"We need three senior Python developers with AWS and machine learning experience for a six-month project."
+
+The interface should:
+
+- Understand required skills
+- Identify role categories
+- Extract experience requirements
+- Understand engagement duration
+- Identify location preferences
+- Generate a structured hiring brief
+- Recommend relevant talent categories
+- Capture the requirement
+
+Connect to a real talent database only when an approved integration exists.
+
+Otherwise, build a clearly labelled working demonstration using sample data.
+
+### AI Hiring Cost Calculator
+
+Allow visitors to select:
+
+- Role
+- Experience level
+- Number of developers
+- Engagement duration
+- Preferred location
+- Engagement model
+
+Display estimated costs based on validated pricing data.
+
+Clearly disclose assumptions and exclusions.
+
+Do not fabricate market salaries or guaranteed savings.
+
+### AI Hiring Assistant
+
+Build a conversational assistant that can answer questions about:
+
+- RapidBrains services
+- Talent engagement models
+- Hiring processes
+- Lens AI
+- Rapid Hire
+- EOR
+- Payroll
+- Frequently asked questions
+
+Include a human sales handoff.
+
+### AI Skill and Role Recommender
+
+Allow businesses to describe their project and receive suggested roles, skills, seniority and team composition.
+
+### Technical architecture
+
+Design the appropriate architecture:
+
+- Frontend
+- Backend APIs
+- LLM integration
+- Approved company knowledge base
+- Retrieval-augmented generation
+- CRM integration
+- Talent database integration
+- Analytics
+- Human review
+- Security and privacy controls
+
+Never expose API keys or sensitive candidate data in frontend code.
+
+---
+
+# 8. VISUAL DESIGN SYSTEM
+
+### Primary design direction
+
+The website should feel like a modern global SaaS platform rather than a traditional recruitment agency.
+
+**Primary UI/UX reference: Braintrust.**
+
+**Whitespace and content reference: Docket.**
+
+**Animation and AI experience reference: Eightfold AI.**
+
+### Visual principles
+
+- Premium and professional
+- Spacious and uncluttered
+- Modern SaaS aesthetic
+- Strong typography
+- Clear information hierarchy
+- Generous white-space
+- Carefully designed bento layouts
+- Subtle gradients
+- Clean card systems
+- Interactive visual storytelling
+- Premium motion design
+
+### Colour direction
+
+Preserve the recognised RapidBrains brand identity, logo and approved brand colours.
+
+Use:
+
+- Existing RapidBrains accent colours
+- Deep navy and dark blue where appropriate
+- White backgrounds
+- Light grey section backgrounds
+- Carefully used gradient accents
+
+Do not make the entire website dark.
+
+**IMPORTANT: Introduce generous white-background sections throughout the website.**
+
+Create a visual balance between:
+
+- White sections
+- Light neutral sections
+- Dark feature sections
+- Accent-colour CTA sections
+
+The overall experience must feel light, premium, spacious and readable.
+
+### Layout and spacing
+
+Follow the clean visual principles of Docket.
+
+- Generous section spacing
+- Comfortable paragraph widths
+- Clear gaps between cards
+- Proper content grouping
+- Consistent container widths
+- Spacious navigation
+- Large but readable headings
+- Balanced image-to-text proportions
+
+Avoid:
+
+- Congested layouts
+- Too many cards in one row
+- Excessive text
+- Overlapping elements
+- Unnecessary gradients
+- Too many competing CTAs
+- Repetitive sections
+- Oversized decorative graphics
+
+The website must breathe.
+
+---
+
+# 9. LIVE IMAGES, ANIMATION AND INTERACTION
+
+The website should feel alive, responsive and intelligent.
+
+Use high-quality animated visuals inspired by Eightfold AI.
+
+Recommended elements:
+
+- Animated talent profile cards
+- Dynamic skill tags
+- Interactive global network graphics
+- Talent matching animations
+- Floating UI elements
+- Animated workflow diagrams
+- Subtle scroll-triggered reveals
+- Hover-responsive cards
+- Interactive technology clusters
+- Animated AI matching visualisations
+- Video or motion-based hero visuals where appropriate
+
+Use genuine technology and professional talent imagery where relevant.
+
+Animations should be:
+
+- Smooth
+- Purposeful
+- Lightweight
+- Responsive
+- Optimised for performance
+- Compatible with reduced-motion preferences
+
+Avoid generic stock imagery, excessive 3D effects and decorative animations that do not communicate anything.
+
+---
+
+# 10. CALL-TO-ACTION STRATEGY
+
+CTAs must be active, contextual and aligned with the service being explored.
+
+Avoid repeatedly using generic buttons such as "Learn More" and "Contact Us".
+
+Use relevant action-based CTAs.
+
+Examples:
+
+| Page | Primary CTA |
+|---|---|
+| Homepage | Find Your Talent |
+| Discover | Explore Talent |
+| Hire on Demand | Find Developers |
+| Dedicated Teams | Build Your Team |
+| Permanent Hiring | Hire Permanently |
+| Employ Globally | Hire Globally |
+| Lens AI | Experience Lens AI |
+| Rapid Hire | Explore Rapid Hire |
+| Businesses | Find Your Hiring Solution |
+| Process | See How It Works |
+| Insights | Explore Insights |
+
+Secondary CTAs:
+
+- Talk to Our Team
+- Submit Your Requirement
+- Get Hiring Support
+- Book a Consultation
+- Explore Engagement Models
+
+All buttons must have working destinations or actions.
+
+Do not create decorative buttons that do nothing.
+
+---
+
+# 11. SEO AND CONTENT ARCHITECTURE
+
+Build search engine visibility into every page.
+
+Prioritise search intent around:
+
+**Contract Hiring**
+
+- Hire remote developers
+- Hire contract developers
+- Hourly developers
+- IT staff augmentation
+- Remote software developers
+
+**Talent Solutions**
+
+- Dedicated development teams
+- Global talent platform
+- Technology recruitment
+- Permanent IT recruitment
+- Recruitment process outsourcing
+
+**Global Employment**
+
+- Employer of record
+- EOR services
+- Global payroll
+- International contractor management
+
+**AI Talent**
+
+- Hire AI engineers
+- Hire machine learning engineers
+- Generative AI developers
+- LLM specialists
+- RAG developers
+- AI talent assessment
+
+Create dedicated service and technology pages with unique content.
+
+Implement:
+
+- Unique page titles
+- Meta descriptions
+- Clear H1/H2/H3 hierarchy
+- Internal linking
+- Canonical tags
+- Structured data
+- Optimised images
+- XML sitemap
+- Robots.txt
+- Open Graph metadata
+- FAQs
+- Search-intent-aligned content
+
+Research actual keyword search volumes, difficulty and geographic intent before prioritising keywords.
+
+Preserve existing valuable SEO pages and create a URL migration and redirect plan before removing or replacing content.
+
+---
+
+# 12. CONVERSION AND LEAD GENERATION
+
+The website should convert visitors into qualified business enquiries.
+
+Create short, intelligent requirement forms.
+
+Collect:
+
+- Name
+- Business email
+- Company
+- Required role or technology
+- Number of professionals
+- Engagement model
+- Expected start date
+- Additional requirements
+
+Use contextual forms instead of forcing every visitor through the same enquiry process.
+
+Examples:
+
+A visitor on Hire on Demand should be able to submit a developer requirement.
+
+A visitor on Employ Globally should be able to enquire about EOR.
+
+A visitor on Permanent Hiring should be able to submit a permanent recruitment requirement.
+
+Connect forms to approved CRM or lead management systems.
+
+Implement spam protection, consent and secure data handling.
+
+---
+
+# 13. RESPONSIVE DESIGN AND PERFORMANCE
+
+Build for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Requirements:
+
+- Mobile-first responsive design
+- Accessible navigation
+- Touch-friendly interactions
+- Optimised images
+- Lazy loading
+- Lightweight animations
+- Semantic HTML
+- Secure forms
+- WCAG 2.2 AA accessibility target
+- Visible keyboard focus
+- Reduced-motion support
+
+Target Core Web Vitals:
+
+- LCP: 2.5 seconds or less
+- INP: 200 milliseconds or less
+- CLS: 0.1 or less
+
+Validate actual performance after implementation.
+
+---
+
+# 14. DEVELOPMENT AND IMPLEMENTATION APPROACH
+
+## CRITICAL: BUILD THE WEBSITE ONE PAGE AT A TIME.
+
+Do not generate the entire website in one step.
+
+Do not start coding all pages simultaneously.
+
+Follow this strict sequence.
+
+### STAGE 1 — Research and Discovery
+
+- Audit existing RapidBrains website.
+- Understand all business services.
+- Review current brand assets.
+- Analyse Braintrust and other references.
+- Review current SEO content.
+- Identify existing functionality.
+- Prepare competitor benchmarking.
+- Finalise the website sitemap.
+
+Deliver the research and proposed architecture for review.
+
+### STAGE 2 — Homepage Strategy and Wireframe
+
+Create the homepage structure.
+
+Show:
+
+- Hero
+- Talent platform overview
+- Discover talent
+- Solutions
+- Lens AI
+- Rapid Hire
+- Why RapidBrains
+- How it works
+- Industries
+- Trust
+- Insights
+- Final CTA
+
+Get approval before development.
+
+### STAGE 3 — Homepage Design and Development
+
+Develop the homepage first.
+
+Create the reusable design system:
+
+- Typography
+- Colours
+- Buttons
+- Navigation
+- Cards
+- Section layouts
+- Spacing
+- Animations
+- Responsive behaviour
+- Footer
+
+The homepage must establish the design language for the entire website.
+
+Get management approval before proceeding.
+
+### STAGE 4 — Develop Individual Pages
+
+Develop each page separately.
+
+Recommended order:
+
+1. Discover landing page
+2. Hire on Demand
+3. Dedicated Teams
+4. Hire Permanently
+5. Employ Globally
+6. Domain Experts for AI
+7. Lens AI
+8. Rapid Hire
+9. Process pages
+10. Businesses pages
+11. Insights pages
+12. Technology and role discovery pages
+
+After completing each page:
+
+- Review visual quality
+- Test interactions
+- Validate responsive behaviour
+- Check content accuracy
+- Check SEO elements
+- Obtain approval
+
+Only then move to the next page.
+
+### STAGE 5 — AI Features
+
+Implement:
+
+- Lens AI demonstration
+- AI Hiring Assistant
+- Cost Calculator
+- Skill and Role Recommender
+
+Distinguish demonstration functionality from production integrations.
+
+### STAGE 6 — Quality Assurance
+
+Test:
+
+- All pages
+- All navigation links
+- All CTAs
+- Forms
+- Mobile responsiveness
+- Browser compatibility
+- Accessibility
+- Performance
+- SEO
+- Security
+- Analytics
+
+### STAGE 7 — Launch
+
+Before replacing the existing website:
+
+- Complete content migration
+- Verify existing URLs
+- Implement redirects
+- Validate metadata
+- Check indexing
+- Verify forms
+- Configure analytics
+- Verify Search Console
+- Establish conversion baselines
+
+---
+
+# 15. FINAL CREATIVE DIRECTION
+
+The final website must combine three distinct experiences:
+
+**1. Braintrust — Marketplace Experience**
+
+Visitors should feel that RapidBrains is a genuine global talent platform where they can explore and discover professionals.
+
+**2. Eightfold AI — Intelligent Experience**
+
+Visitors should experience intelligent talent discovery, dynamic interactions and meaningful AI-powered features.
+
+**3. Docket — Premium SaaS Experience**
+
+Visitors should experience clean layouts, generous whitespace, excellent typography and effortless navigation.
+
+These references must be combined into a unique RapidBrains identity.
+
+The result should not look like a recruitment agency template, a generic AI landing page or a copy of Braintrust.
+
+It should look like a premium global technology talent platform.
+
+---
+
+# 16. FINAL SUCCESS CRITERIA
+
+The redesigned RapidBrains website must:
+
+1. Establish RapidBrains as a complete Global Talent Platform.
+2. Clearly communicate contract developer hiring as its primary business offering.
+3. Present EOR, permanent recruitment, dedicated teams and other services independently.
+4. Make Lens AI a recognisable signature product.
+5. Introduce Rapid Hire as a distinct recruitment platform.
+6. Provide intuitive multi-page navigation.
+7. Make talent discovery interactive.
+8. Use meaningful animated visuals.
+9. Maintain a clean, spacious, premium UI.
+10. Use white backgrounds and dark feature sections in a balanced manner.
+11. Generate qualified business enquiries.
+12. Build strong search visibility.
+13. Work seamlessly across all devices.
+14. Preserve existing verified business information and SEO value.
+15. Be scalable for future talent marketplace and workforce management capabilities.
+
+**MOST IMPORTANT EXECUTION INSTRUCTION**
+
+Start with research, then present the sitemap and homepage wireframe.
+
+Develop and finalise the homepage first.
+
+Do not proceed to the next page until the homepage design system has been reviewed and approved.
+
+Build the website page by page, maintaining consistent quality, spacing, interactions, branding and performance throughout.
+
+The ultimate goal:
+
+**Make RapidBrains the platform businesses think of when they need to discover, hire, employ and manage global technology talent.**

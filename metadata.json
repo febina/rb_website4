@@ -1,0 +1,6 @@
+{
+  "name": "RapidBrains — Global Talent Platform",
+  "description": "Discover, evaluate, hire, employ, and manage exceptional global technology talent through AI-powered talent intelligence, flexible contract developers, and global EOR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
